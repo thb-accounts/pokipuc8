@@ -68,7 +68,7 @@ export default function Index() {
       category: 'High-Tech and World-Changing Items'
     },
     {
-      id: 'gaming-headset',
+      id: 'ttmarketplace-1',
       name: 'Pelikan Bleistifte Black Hexagonal HB Pencils',
       description: 'These Pencils are pre-sharpened when you ask for one. Given at break or lunch.',
       cost: 0,
