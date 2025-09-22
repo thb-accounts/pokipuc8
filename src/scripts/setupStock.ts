@@ -40,4 +40,4 @@ export const setupInitialStock = async () => {
 };
 
 // Uncomment the line below and run this file to setup stock
-// setupInitialStock();
+setupInitialStock();
