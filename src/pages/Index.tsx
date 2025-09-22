@@ -263,8 +263,8 @@ export default function Index() {
         {/* Main Content */}
         <Tabs defaultValue="marketplace" className="space-y-6">
           <TabsList className="grid w-full grid-cols-2 max-w-md mx-auto">
-            <TabsTrigger value="marketplace">Marketplace</TabsTrigger>
-            <TabsTrigger value="tasks">Tasks</TabsTrigger>
+            <TabsTrigger value="marketplace">TokenTrek Mart - Student Items</TabsTrigger>
+            <TabsTrigger value="tasks">TokenTrek Hub</TabsTrigger>
           </TabsList>
           
           <TabsContent value="marketplace" className="space-y-6">
