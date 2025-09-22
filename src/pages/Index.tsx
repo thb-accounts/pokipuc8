@@ -269,7 +269,7 @@ export default function Index() {
           
           <TabsContent value="marketplace" className="space-y-6">
             <div className="text-center space-y-2">
-              <h2 className="text-2xl font-semibold">Token Marketplace</h2>
+              <h2 className="text-2xl font-semibold">TokenTrek Student Items</h2>
               <p className="text-muted-foreground">Exchange your tokens for amazing rewards</p>
             </div>
             
@@ -297,10 +297,10 @@ export default function Index() {
               <div className="space-y-4 text-center">
                 <div className="flex items-center justify-center gap-2">
                   <Trophy className="w-5 h-5 text-neon-cyan" />
-                  <h2 className="text-xl font-bold">Daily Tasks</h2>
+                  <h2 className="text-xl font-bold">TokenTrek Hub</h2>
                 </div>
                 <p className="text-muted-foreground">
-                  Complete daily tasks to earn tokens and rewards
+                  TokenTrek Hub
                 </p>
                 <Button
                   variant="gaming"
