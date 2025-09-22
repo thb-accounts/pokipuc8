@@ -241,10 +241,10 @@ export default function Index() {
         <div className="flex justify-between items-center mb-8">
           <div>
             <h1 className="text-4xl font-bold bg-gradient-to-r from-neon-cyan to-neon-purple bg-clip-text text-transparent">
-              TokenTrek
+              TokenTrek Marketplace
             </h1>
-            <p className="text-muted-foreground mt-2">Complete tasks, earn tokens, claim rewards</p>
-            <p className="text-muted-foreground mt-2"> A solution coded and ran by Hammad Abdullah in Year 7 Da Vinci</p>
+            <p className="text-muted-foreground mt-2">A THB Group brand.</p>
+            <p className="text-muted-foreground mt-2"></p>
           </div>
           
           <div className="flex items-center gap-4">
