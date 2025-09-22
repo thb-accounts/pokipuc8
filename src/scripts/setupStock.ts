@@ -9,6 +9,18 @@ const stockData = [
   { item_id: 'gaming-mouse', total_stock: 150, remaining_stock: 150 },
   { item_id: 'robux-currency', total_stock: 1000, remaining_stock: 1000 },
   { item_id: 'bell-cafe-cookie', total_stock: 200, remaining_stock: 200 },
+  { item_id: 'blank-item-1', total_stock: 50, remaining_stock: 50 },
+  { item_id: 'blank-item-2', total_stock: 50, remaining_stock: 50 },
+  { item_id: 'blank-item-3', total_stock: 50, remaining_stock: 50 },
+  { item_id: 'blank-item-4', total_stock: 50, remaining_stock: 50 },
+  { item_id: 'blank-item-5', total_stock: 50, remaining_stock: 50 },
+  { item_id: 'blank-item-6', total_stock: 50, remaining_stock: 50 },
+  { item_id: 'blank-item-7', total_stock: 50, remaining_stock: 50 },
+  { item_id: 'blank-item-8', total_stock: 50, remaining_stock: 50 },
+  { item_id: 'blank-item-9', total_stock: 50, remaining_stock: 50 },
+  { item_id: 'blank-item-10', total_stock: 50, remaining_stock: 50 },
+  { item_id: 'blank-item-11', total_stock: 50, remaining_stock: 50 },
+  { item_id: 'blank-item-12', total_stock: 50, remaining_stock: 50 },
 ];
 
 export const setupInitialStock = async () => {

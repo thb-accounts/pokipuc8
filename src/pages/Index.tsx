@@ -106,6 +106,102 @@ export default function Index() {
       cost: 900,
       image: bellCafeCookieImg,
       category: 'Food'
+    },
+    {
+      id: 'blank-item-1',
+      name: 'Blank Item 1',
+      description: 'This is a placeholder item that can be customized',
+      cost: 10,
+      image: gamingChairImg,
+      category: 'Placeholder'
+    },
+    {
+      id: 'blank-item-2',
+      name: 'Blank Item 2',
+      description: 'This is a placeholder item that can be customized',
+      cost: 20,
+      image: gamingHeadsetImg,
+      category: 'Placeholder'
+    },
+    {
+      id: 'blank-item-3',
+      name: 'Blank Item 3',
+      description: 'This is a placeholder item that can be customized',
+      cost: 30,
+      image: gamingKeyboardImg,
+      category: 'Placeholder'
+    },
+    {
+      id: 'blank-item-4',
+      name: 'Blank Item 4',
+      description: 'This is a placeholder item that can be customized',
+      cost: 40,
+      image: gamingMouseImg,
+      category: 'Placeholder'
+    },
+    {
+      id: 'blank-item-5',
+      name: 'Blank Item 5',
+      description: 'This is a placeholder item that can be customized',
+      cost: 50,
+      image: robuxCurrencyImg,
+      category: 'Placeholder'
+    },
+    {
+      id: 'blank-item-6',
+      name: 'Blank Item 6',
+      description: 'This is a placeholder item that can be customized',
+      cost: 60,
+      image: bellCafeCookieImg,
+      category: 'Placeholder'
+    },
+    {
+      id: 'blank-item-7',
+      name: 'Blank Item 7',
+      description: 'This is a placeholder item that can be customized',
+      cost: 70,
+      image: gamingChairImg,
+      category: 'Placeholder'
+    },
+    {
+      id: 'blank-item-8',
+      name: 'Blank Item 8',
+      description: 'This is a placeholder item that can be customized',
+      cost: 80,
+      image: gamingHeadsetImg,
+      category: 'Placeholder'
+    },
+    {
+      id: 'blank-item-9',
+      name: 'Blank Item 9',
+      description: 'This is a placeholder item that can be customized',
+      cost: 90,
+      image: gamingKeyboardImg,
+      category: 'Placeholder'
+    },
+    {
+      id: 'blank-item-10',
+      name: 'Blank Item 10',
+      description: 'This is a placeholder item that can be customized',
+      cost: 100,
+      image: gamingMouseImg,
+      category: 'Placeholder'
+    },
+    {
+      id: 'blank-item-11',
+      name: 'Blank Item 11',
+      description: 'This is a placeholder item that can be customized',
+      cost: 110,
+      image: robuxCurrencyImg,
+      category: 'Placeholder'
+    },
+    {
+      id: 'blank-item-12',
+      name: 'Blank Item 12',
+      description: 'This is a placeholder item that can be customized',
+      cost: 120,
+      image: bellCafeCookieImg,
+      category: 'Placeholder'
     }
   ];
 
