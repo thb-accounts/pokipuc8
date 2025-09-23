@@ -61,49 +61,49 @@ export default function Index() {
   const items: Item[] = [
     {
       id: 'gaming-chair',
-      name: 'TokenTrek x THB | acd 1',
-      description: 'This card can run a website and makes sure you do not lose stuff and so much more!',
-      cost: 5,
+      name: 'FREE TOKENTREK MARKETPLACE SLOT',
+      description: 'Just buy this slot on TokenTrek, Hammad will contact you.',
+      cost: 0,
       image: gamingChairImg,
       category: 'High-Tech and World-Changing Items'
     },
     {
       id: 'ttmarketplace-1',
-      name: 'Pelikan Bleistifte Black Hexagonal HB Pencils',
-      description: 'These Pencils are pre-sharpened when you ask for one. Given at break or lunch.',
+      name: 'FREE TOKENTREK MARKETPLACE SLOT',
+      description: 'Just buy this slot on TokenTrek, Hammad will contact you.',
       cost: 0,
       image: gamingHeadsetImg,
       category: 'Classroom Essentials'
     },
     {
       id: 'gaming-keyboard',
-      name: 'Instant Stationary Pack',
-      description: 'This pencilcase will have all the essentials you need from class, so that you do not have to borrow from your friends or the teacher. You are welcome :D',
-      cost: 1,
+      name: 'Just buy this slot on TokenTrek, Hammad will contact you.',
+      description: 'Just buy this slot on TokenTrek, Hammad will contact you.',
+      cost: 0,
       image: gamingKeyboardImg,
       category: 'Classroom Essentials'
     },
     {
       id: 'gaming-mouse',
-      name: '[DISCOUNT] Nintendo Switch OLED Red Model',
-      description: 'This is the classic Nintendo Switch., this item is highly commended. Sold by TOKENTREK.',
+      name: 'Just buy this slot on TokenTrek, Hammad will contact you.',
+      description: 'Just buy this slot on TokenTrek, Hammad will contact you.',
       cost: 100,
       image: gamingMouseImg,
       category: ' Gaming Console'
     },
     {
       id: 'robux-currency',
-      name: 'Robux - Temporarily Unavailable',
-      description: '100 Robux',
-      cost: 1500,
+      name: 'Just buy this slot on TokenTrek, Hammad will contact you.',
+      description: 'Just buy this slot on TokenTrek, Hammad will contact you.',
+      cost: 0,
       image: robuxCurrencyImg,
       category: 'In-Game Currency'
     },
     {
       id: 'bell-cafe-cookie',
-      name: 'Bell Café Cookie',
-      description: 'Delicious cookies from the popular Bell Café',
-      cost: 900,
+      name: 'Just buy this slot on TokenTrek, Hammad will contact you.',
+      description: 'Just buy this slot on TokenTrek, Hammad will contact you.',
+      cost: 0,
       image: bellCafeCookieImg,
       category: 'Food'
     },
@@ -111,23 +111,23 @@ export default function Index() {
       id: 'blank-item-1',
       name: 'Blank Item 1',
       description: 'This is a placeholder item that can be customized',
-      cost: 10,
+      cost: 0,
       image: gamingChairImg,
       category: 'Placeholder'
     },
     {
       id: 'blank-item-2',
       name: 'Blank Item 2',
-      description: 'This is a placeholder item that can be customized',
-      cost: 20,
+      description: 'This is a placeholder item that can be customized. just buy it',
+      cost: 0,
       image: gamingHeadsetImg,
       category: 'Placeholder'
     },
     {
       id: 'blank-item-3',
       name: 'Blank Item 3',
-      description: 'This is a placeholder item that can be customized',
-      cost: 30,
+      description: 'This is a placeholder item that can be customized by you. Just buy it',
+      cost: 0,
       image: gamingKeyboardImg,
       category: 'Placeholder'
     },
@@ -135,7 +135,7 @@ export default function Index() {
       id: 'blank-item-4',
       name: 'Blank Item 4',
       description: 'This is a placeholder item that can be customized',
-      cost: 40,
+      cost: 0,
       image: gamingMouseImg,
       category: 'Placeholder'
     },
@@ -143,7 +143,7 @@ export default function Index() {
       id: 'blank-item-5',
       name: 'Blank Item 5',
       description: 'This is a placeholder item that can be customized',
-      cost: 50,
+      cost: 0,
       image: robuxCurrencyImg,
       category: 'Placeholder'
     },
@@ -151,7 +151,7 @@ export default function Index() {
       id: 'blank-item-6',
       name: 'Blank Item 6',
       description: 'This is a placeholder item that can be customized',
-      cost: 60,
+      cost: 0,
       image: bellCafeCookieImg,
       category: 'Placeholder'
     },
@@ -159,7 +159,7 @@ export default function Index() {
       id: 'blank-item-7',
       name: 'Blank Item 7',
       description: 'This is a placeholder item that can be customized',
-      cost: 70,
+      cost: 0,
       image: gamingChairImg,
       category: 'Placeholder'
     },
@@ -167,7 +167,7 @@ export default function Index() {
       id: 'blank-item-8',
       name: 'Blank Item 8',
       description: 'This is a placeholder item that can be customized',
-      cost: 80,
+      cost: 0,
       image: gamingHeadsetImg,
       category: 'Placeholder'
     },
@@ -175,7 +175,7 @@ export default function Index() {
       id: 'blank-item-9',
       name: 'Blank Item 9',
       description: 'This is a placeholder item that can be customized',
-      cost: 90,
+      cost: 0,
       image: gamingKeyboardImg,
       category: 'Placeholder'
     },
@@ -183,7 +183,7 @@ export default function Index() {
       id: 'blank-item-10',
       name: 'Blank Item 10',
       description: 'This is a placeholder item that can be customized',
-      cost: 100,
+      cost: 0,
       image: gamingMouseImg,
       category: 'Placeholder'
     },
@@ -191,15 +191,15 @@ export default function Index() {
       id: 'blank-item-11',
       name: 'Blank Item 11',
       description: 'This is a placeholder item that can be customized',
-      cost: 110,
+      cost: 0,
       image: robuxCurrencyImg,
       category: 'Placeholder'
     },
     {
       id: 'blank-item-12',
-      name: 'Blank Item 12',
-      description: 'This is a placeholder item that can be customized',
-      cost: 120,
+      name: 'VIP Slot',
+      description: 'Get a VIP SLOT for your item. In school advertising.',
+      cost: 60,
       image: bellCafeCookieImg,
       category: 'Placeholder'
     }
