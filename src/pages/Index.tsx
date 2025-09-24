@@ -64,7 +64,7 @@ export default function Index() {
     {
       id: 'blank-item-18',
       name: 'Like Stanley Bottle',
-      description: ' COSTS AED 40. YOU ARE JUST RESERVING. This item has been verified by TokenTrek. The seller is also authorised with TokenTrek.',
+      description: 'Contact Hammad to purchase. Hammad Abdullah is handling this listing.',
       cost: 2,
       image: jassimsImg,
       category: 'JASSIM ZEESHAN BUTT'
