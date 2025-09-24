@@ -23,6 +23,7 @@ import gamingMouseImg from '@/assets/gaming-mouse.jpg';
 import robuxCurrencyImg from '@/assets/robux-currency.jpg';
 import bellCafeCookieImg from '@/assets/bell-cafe-cookie.jpg';
 import advertisingImg from '@/assets/BIG.png'
+import jassimsImg from '@/assets/jassimitem.png'
 
 export default function Index() {
   const navigate = useNavigate();
@@ -62,11 +63,11 @@ export default function Index() {
   const items: Item[] = [
     {
       id: 'blank-item-18',
-      name: 'FREE TOKENTREK MARKETPLACE SLOT',
-      description: 'Just buy this slot on TokenTrek, Hammad will contact you.',
-      cost: 0,
+      name: 'Like Stanley Bottle',
+      description: ' COSTS AED 40. YOU ARE JUST RESERVING. This item has been verified by TokenTrek. The seller is also authorised with TokenTrek.',
+      cost: 2,
       image: advertisingImg,
-      category: 'High-Tech and World-Changing Items'
+      category: 'JASSIM ZEESHAN BUTT'
     },
     {
       id: 'blank-item-17',
