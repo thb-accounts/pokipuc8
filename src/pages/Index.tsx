@@ -15,13 +15,14 @@ import { usePurchase } from '@/hooks/usePurchase';
 import { useToast } from "@/hooks/use-toast";
 import { LogOut, Trophy } from 'lucide-react';
 
-// Import images
+// Import images: Use format import (whatever) and then from '@/assets/imagefile.png';
 import gamingChairImg from '@/assets/gaming-chair.jpg';
 import gamingHeadsetImg from '@/assets/gaming-headset.jpg';
 import gamingKeyboardImg from '@/assets/gaming-keyboard.jpg';
 import gamingMouseImg from '@/assets/gaming-mouse.jpg';
 import robuxCurrencyImg from '@/assets/robux-currency.jpg';
 import bellCafeCookieImg from '@/assets/bell-cafe-cookie.jpg';
+import advertisingIMG from '@assets/ot-image.jpg'
 
 export default function Index() {
   const navigate = useNavigate();
@@ -43,7 +44,7 @@ export default function Index() {
       <div className="min-h-screen bg-gradient-dark flex items-center justify-center">
         <div className="text-center space-y-4">
           <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-neon-cyan mx-auto"></div>
-          <p className="text-muted-foreground">Loading your dashboard...</p>
+          <p className="text-muted-foreground">Loading your dashboard... Enjoy TokenTrek Marketplace tho</p>
         </div>
       </div>
     );
@@ -109,7 +110,7 @@ export default function Index() {
     },
     {
       id: 'blank-item-1',
-      name: 'Blank Item 1',
+      name: 'Free TokenTrek Marketplace Advertisement Slot',
       description: 'This is a placeholder item that can be customized',
       cost: 0,
       image: gamingChairImg,
@@ -117,7 +118,7 @@ export default function Index() {
     },
     {
       id: 'blank-item-2',
-      name: 'Blank Item 2',
+      name: 'Free TokenTrek Marketplace Advertisement Slot',
       description: 'This is a placeholder item that can be customized. just buy it',
       cost: 0,
       image: gamingHeadsetImg,
@@ -125,7 +126,7 @@ export default function Index() {
     },
     {
       id: 'blank-item-3',
-      name: 'Blank Item 3',
+      name: 'Free TokenTrek Marketplace Advertisement Slot',
       description: 'This is a placeholder item that can be customized by you. Just buy it',
       cost: 0,
       image: gamingKeyboardImg,
@@ -133,7 +134,7 @@ export default function Index() {
     },
     {
       id: 'blank-item-4',
-      name: 'Blank Item 4',
+      name: 'Free TokenTrek Marketplace Advertisement Slot',
       description: 'This is a placeholder item that can be customized',
       cost: 0,
       image: gamingMouseImg,
@@ -141,7 +142,7 @@ export default function Index() {
     },
     {
       id: 'blank-item-5',
-      name: 'Blank Item 5',
+      name: 'Free TokenTrek Marketplace Advertisement Slot',
       description: 'This is a placeholder item that can be customized',
       cost: 0,
       image: robuxCurrencyImg,
@@ -149,7 +150,7 @@ export default function Index() {
     },
     {
       id: 'blank-item-6',
-      name: 'Blank Item 6',
+      name: 'Free TokenTrek Marketplace Advertisement Slot',
       description: 'This is a placeholder item that can be customized',
       cost: 0,
       image: bellCafeCookieImg,
@@ -157,15 +158,15 @@ export default function Index() {
     },
     {
       id: 'blank-item-7',
-      name: 'Blank Item 7',
-      description: 'This is a placeholder item that can be customized',
+      name: 'Free TokenTrek Marketplace Advertisement Slot',
+      description: 'Free TokenTrek Marketplace Advertisement Slot',
       cost: 0,
       image: gamingChairImg,
       category: 'Placeholder'
     },
     {
       id: 'blank-item-8',
-      name: 'Blank Item 8',
+      name: 'Free TokenTrek Marketplace Advertisement Slot',
       description: 'This is a placeholder item that can be customized',
       cost: 0,
       image: gamingHeadsetImg,
@@ -173,7 +174,7 @@ export default function Index() {
     },
     {
       id: 'blank-item-9',
-      name: 'Blank Item 9',
+      name: 'Free TokenTrek Marketplace Advertisement Slot',
       description: 'This is a placeholder item that can be customized',
       cost: 0,
       image: gamingKeyboardImg,
@@ -181,7 +182,7 @@ export default function Index() {
     },
     {
       id: 'blank-item-10',
-      name: 'Blank Item 10',
+      name: 'Free TokenTrek Marketplace Advertisement Slot',
       description: 'This is a placeholder item that can be customized',
       cost: 0,
       image: gamingMouseImg,
@@ -189,7 +190,7 @@ export default function Index() {
     },
     {
       id: 'blank-item-11',
-      name: 'Blank Item 11',
+      name: 'Free TokenTrek Marketplace Advertisement Slot',
       description: 'This is a placeholder item that can be customized',
       cost: 0,
       image: robuxCurrencyImg,
