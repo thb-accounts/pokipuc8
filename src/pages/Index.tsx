@@ -65,7 +65,7 @@ export default function Index() {
       name: 'FREE TOKENTREK MARKETPLACE SLOT',
       description: 'Just buy this slot on TokenTrek, Hammad will contact you.',
       cost: 0,
-      image: gamingChairImg,
+      image: advertisingImg,
       category: 'High-Tech and World-Changing Items'
     },
     {
@@ -73,7 +73,7 @@ export default function Index() {
       name: 'FREE TOKENTREK MARKETPLACE SLOT',
       description: 'Just buy this slot on TokenTrek, Hammad will contact you.',
       cost: 0,
-      image: gamingHeadsetImg,
+      image: advertisingImg,
       category: 'Classroom Essentials'
     },
     {
@@ -81,7 +81,7 @@ export default function Index() {
       name: 'Just buy this slot on TokenTrek, Hammad will contact you.',
       description: 'Just buy this slot on TokenTrek, Hammad will contact you.',
       cost: 0,
-      image: gamingKeyboardImg,
+      image: advertisingImg,
       category: 'Classroom Essentials'
     },
     {
@@ -89,7 +89,7 @@ export default function Index() {
       name: 'Just buy this slot on TokenTrek, Hammad will contact you.',
       description: 'Just buy this slot on TokenTrek, Hammad will contact you.',
       cost: 100,
-      image: gamingMouseImg,
+      image: advertisingImg,
       category: ' Gaming Console'
     },
     {
@@ -97,7 +97,7 @@ export default function Index() {
       name: 'Just buy this slot on TokenTrek, Hammad will contact you.',
       description: 'Just buy this slot on TokenTrek, Hammad will contact you.',
       cost: 0,
-      image: robuxCurrencyImg,
+      image: advertisingImg,
       category: 'In-Game Currency'
     },
     {
@@ -105,7 +105,7 @@ export default function Index() {
       name: 'Just buy this slot on TokenTrek, Hammad will contact you.',
       description: 'Just buy this slot on TokenTrek, Hammad will contact you.',
       cost: 0,
-      image: bellCafeCookieImg,
+      image: advertisingImg,
       category: 'Food'
     },
     {
@@ -113,7 +113,7 @@ export default function Index() {
       name: 'Free TokenTrek Marketplace Advertisement Slot',
       description: 'This is a placeholder item that can be customized',
       cost: 0,
-      image: gamingChairImg,
+      image: advertisingImg,
       category: 'Placeholder'
     },
     {
@@ -121,7 +121,7 @@ export default function Index() {
       name: 'Free TokenTrek Marketplace Advertisement Slot',
       description: 'This is a placeholder item that can be customized. just buy it',
       cost: 0,
-      image: gamingHeadsetImg,
+      image: advertisingImg,
       category: 'Placeholder'
     },
     {
@@ -129,7 +129,7 @@ export default function Index() {
       name: 'Free TokenTrek Marketplace Advertisement Slot',
       description: 'This is a placeholder item that can be customized by you. Just buy it',
       cost: 0,
-      image: gamingKeyboardImg,
+      image: advertisingImg,
       category: 'Placeholder'
     },
     {
@@ -137,7 +137,7 @@ export default function Index() {
       name: 'Free TokenTrek Marketplace Advertisement Slot',
       description: 'This is a placeholder item that can be customized',
       cost: 0,
-      image: gamingMouseImg,
+      image: advertisingImg,
       category: 'Placeholder'
     },
     {
@@ -145,7 +145,7 @@ export default function Index() {
       name: 'Free TokenTrek Marketplace Advertisement Slot',
       description: 'This is a placeholder item that can be customized',
       cost: 0,
-      image: robuxCurrencyImg,
+      image: advertisingImg,
       category: 'Placeholder'
     },
     {
@@ -153,7 +153,7 @@ export default function Index() {
       name: 'Free TokenTrek Marketplace Advertisement Slot',
       description: 'This is a placeholder item that can be customized',
       cost: 0,
-      image: bellCafeCookieImg,
+      image: advertisingImg,
       category: 'Placeholder'
     },
     {
@@ -161,7 +161,7 @@ export default function Index() {
       name: 'Free TokenTrek Marketplace Advertisement Slot',
       description: 'Free TokenTrek Marketplace Advertisement Slot',
       cost: 0,
-      image: gamingChairImg,
+      image: advertisingImg,
       category: 'Placeholder'
     },
     {
@@ -169,7 +169,7 @@ export default function Index() {
       name: 'Free TokenTrek Marketplace Advertisement Slot',
       description: 'This is a placeholder item that can be customized',
       cost: 0,
-      image: gamingHeadsetImg,
+      image: advertisingImg,
       category: 'Placeholder'
     },
     {
@@ -177,7 +177,7 @@ export default function Index() {
       name: 'Free TokenTrek Marketplace Advertisement Slot',
       description: 'This is a placeholder item that can be customized',
       cost: 0,
-      image: gamingKeyboardImg,
+      image: advertisingImg,
       category: 'Placeholder'
     },
     {
@@ -185,7 +185,7 @@ export default function Index() {
       name: 'Free TokenTrek Marketplace Advertisement Slot',
       description: 'This is a placeholder item that can be customized',
       cost: 0,
-      image: gamingMouseImg,
+      image: advertisingImg,
       category: 'Placeholder'
     },
     {
@@ -193,7 +193,7 @@ export default function Index() {
       name: 'Free TokenTrek Marketplace Advertisement Slot',
       description: 'This is a placeholder item that can be customized',
       cost: 0,
-      image: robuxCurrencyImg,
+      image: advertisingImg,
       category: 'Placeholder'
     },
     {
@@ -201,7 +201,7 @@ export default function Index() {
       name: 'VIP Slot',
       description: 'Get a VIP SLOT for your item. In school advertising.',
       cost: 60,
-      image: bellCafeCookieImg,
+      image: advertisingImg,
       category: 'Placeholder'
     }
   ];
