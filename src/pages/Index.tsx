@@ -71,9 +71,9 @@ export default function Index() {
     },
     {
       id: 'blank-item-17',
-      name: 'FREE TOKENTREK MARKETPLACE SLOT',
+      name: 'App or Website Development',
       description: 'Just buy this slot on TokenTrek, Hammad will contact you.',
-      cost: 0,
+      cost: 100,
       image: advertisingImg,
       category: 'Classroom Essentials'
     },
