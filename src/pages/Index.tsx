@@ -66,7 +66,7 @@ export default function Index() {
       name: 'Like Stanley Bottle',
       description: ' COSTS AED 40. YOU ARE JUST RESERVING. This item has been verified by TokenTrek. The seller is also authorised with TokenTrek.',
       cost: 2,
-      image: advertisingImg,
+      image: jassimsImg,
       category: 'JASSIM ZEESHAN BUTT'
     },
     {
