@@ -22,7 +22,7 @@ import gamingKeyboardImg from '@/assets/gaming-keyboard.jpg';
 import gamingMouseImg from '@/assets/gaming-mouse.jpg';
 import robuxCurrencyImg from '@/assets/robux-currency.jpg';
 import bellCafeCookieImg from '@/assets/bell-cafe-cookie.jpg';
-import advertisingIMG from '@assets/ot-image.jpg'
+import advertisingImg from '@assets/BIG.png'
 
 export default function Index() {
   const navigate = useNavigate();
