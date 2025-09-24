@@ -61,7 +61,7 @@ export default function Index() {
 
   const items: Item[] = [
     {
-      id: 'gaming-chair',
+      id: 'blank-item-18',
       name: 'FREE TOKENTREK MARKETPLACE SLOT',
       description: 'Just buy this slot on TokenTrek, Hammad will contact you.',
       cost: 0,
@@ -69,7 +69,7 @@ export default function Index() {
       category: 'High-Tech and World-Changing Items'
     },
     {
-      id: 'ttmarketplace-1',
+      id: 'blank-item-17',
       name: 'FREE TOKENTREK MARKETPLACE SLOT',
       description: 'Just buy this slot on TokenTrek, Hammad will contact you.',
       cost: 0,
@@ -77,7 +77,7 @@ export default function Index() {
       category: 'Classroom Essentials'
     },
     {
-      id: 'gaming-keyboard',
+      id: 'blank-item-16',
       name: 'Just buy this slot on TokenTrek, Hammad will contact you.',
       description: 'Just buy this slot on TokenTrek, Hammad will contact you.',
       cost: 0,
@@ -85,7 +85,7 @@ export default function Index() {
       category: 'Classroom Essentials'
     },
     {
-      id: 'gaming-mouse',
+      id: 'blank-item-15',
       name: 'Just buy this slot on TokenTrek, Hammad will contact you.',
       description: 'Just buy this slot on TokenTrek, Hammad will contact you.',
       cost: 100,
@@ -93,7 +93,7 @@ export default function Index() {
       category: ' Gaming Console'
     },
     {
-      id: 'robux-currency',
+      id: 'blank-item-14',
       name: 'Just buy this slot on TokenTrek, Hammad will contact you.',
       description: 'Just buy this slot on TokenTrek, Hammad will contact you.',
       cost: 0,
@@ -101,7 +101,7 @@ export default function Index() {
       category: 'In-Game Currency'
     },
     {
-      id: 'bell-cafe-cookie',
+      id: 'blank-item-13',
       name: 'Just buy this slot on TokenTrek, Hammad will contact you.',
       description: 'Just buy this slot on TokenTrek, Hammad will contact you.',
       cost: 0,
