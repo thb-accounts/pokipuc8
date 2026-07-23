@@ -62,14 +62,6 @@ export default function Index() {
 
   const items: Item[] = [
     {
-      id: 'blank-item-18',
-      name: 'Like Stanley Bottle',
-      description: 'Contact Hammad to purchase. Hammad Abdullah is handling this listing.',
-      cost: 2,
-      image: jassimsImg,
-      category: 'JASSIM ZEESHAN BUTT'
-    },
-    {
       id: 'bell-cafe-cookie',
       name: 'App or Website Development',
       description: 'Just buy this slot on POKIP, Hammad will contact you.',
