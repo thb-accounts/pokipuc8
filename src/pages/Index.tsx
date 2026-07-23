@@ -64,16 +64,16 @@ export default function Index() {
     {
       id: 'bell-cafe-cookie',
       name: 'App or Website Development',
-      description: 'Just buy this slot on POKIP, Hammad will contact you.',
+      description: 'Get an app developed for you, only 100 Tokens',
       cost: 100,
-      image: advertisingImg,
-      category: 'Classroom Essentials'
+      image: gamingMouseImg,
+      category: 'Software'
     },
     {
-      id: 'blank-item-16',
-      name: 'Just buy this slot on POKIP, Hammad will contact you.',
-      description: 'Just buy this slot on POKIP, Hammad will contact you.',
-      cost: 0,
+      id: 'robux-currency',
+      name: 'UC8Phone Mobile Plan',
+      description: 'Get a free starter calling plan with 47 minutes of calling.',
+      cost: 47000,
       image: advertisingImg,
       category: 'Classroom Essentials'
     },
