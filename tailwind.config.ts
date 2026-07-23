@@ -52,7 +52,7 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
-				// Gaming color palette
+				// Legacy utility names retained while using the POKIP blue palette.
 				'neon-cyan': 'hsl(var(--neon-cyan))',
 				'neon-purple': 'hsl(var(--neon-purple))',
 				'electric-blue': 'hsl(var(--electric-blue))',
@@ -93,10 +93,10 @@ export default {
 				},
 				'glow-pulse': {
 					'0%, 100%': {
-						boxShadow: '0 0 20px hsl(194 100% 50% / 0.3)'
+						boxShadow: '0 0 20px hsl(220 93% 50% / 0.35)'
 					},
 					'50%': {
-						boxShadow: '0 0 30px hsl(194 100% 50% / 0.6)'
+						boxShadow: '0 0 30px hsl(220 93% 50% / 0.6)'
 					}
 				},
 				'token-bounce': {
