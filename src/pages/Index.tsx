@@ -24,6 +24,8 @@ import robuxCurrencyImg from '@/assets/robux-currency.jpg';
 import bellCafeCookieImg from '@/assets/bell-cafe-cookie.jpg';
 import advertisingImg from '@/assets/BIG.png'
 import jassimsImg from '@/assets/jassimitem.png'
+import appWebImg from '@/assets/appweb.png'
+import amazongift from '@/assets/amazongift.jpg'
 
 export default function Index() {
   const navigate = useNavigate();
@@ -64,34 +66,34 @@ export default function Index() {
     {
       id: 'bell-cafe-cookie',
       name: 'App or Website Development',
-      description: 'Get an app developed for you, only 100 Tokens',
+      description: 'Get an app developed for you for an affordable price.',
       cost: 100,
-      image: gamingMouseImg,
+      image: appWebImg,
       category: 'Software'
     },
     {
       id: 'robux-currency',
       name: 'UC8Phone Mobile Plan',
       description: 'Get a free starter calling plan with 47 minutes of calling.',
-      cost: 47000,
+      cost: 50,
       image: gamingHeadsetImg,
-      category: 'Classroom Essentials'
+      category: 'Phone Services'
     },
     {
-      id: 'blank-item-15',
-      name: 'Just buy this slot on POKIP, Hammad will contact you.',
-      description: 'Just buy this slot on POKIP, Hammad will contact you.',
-      cost: 100,
-      image: advertisingImg,
-      category: ' Gaming Console'
+      id: 'amazon-gift-card-2',
+      name: 'AED 50 Amazon Gift Card (UAE)',
+      description: 'Purchase an Amazon Gift Card for only 5000 Tokens! Note: UAE usage only.',
+      cost: 5000,
+      image: amazongift,
+      category: 'Gift Cards'
     },
     {
-      id: 'blank-item-14',
-      name: 'Just buy this slot on POKIP, Hammad will contact you.',
-      description: 'Just buy this slot on POKIP, Hammad will contact you.',
-      cost: 0,
+      id: 'amazon-gift-card-1',
+      name: 'AED 50 Amazon Gift Card (UAE)',
+      description: 'Purchase an Amazon Gift Card for only 5000 Tokens! Note: UAE usage only.',
+      cost: 5000,
       image: advertisingImg,
-      category: 'In-Game Currency'
+      category: 'Gift Cards'
     },
     {
       id: 'blank-item-13',
