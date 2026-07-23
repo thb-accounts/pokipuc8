@@ -45,7 +45,7 @@ export default function Index() {
       <div className="min-h-screen bg-gradient-dark flex items-center justify-center">
         <div className="text-center space-y-4">
           <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-neon-cyan mx-auto"></div>
-          <p className="text-muted-foreground">Loading your POKIP marketplace...</p>
+          <p className="text-muted-foreground">Loading the POKIP marketplace, hang tight!</p>
         </div>
       </div>
     );
@@ -70,7 +70,7 @@ export default function Index() {
       category: 'JASSIM ZEESHAN BUTT'
     },
     {
-      id: 'blank-item-17',
+      id: 'bell-cafe-cookie',
       name: 'App or Website Development',
       description: 'Just buy this slot on POKIP, Hammad will contact you.',
       cost: 100,
