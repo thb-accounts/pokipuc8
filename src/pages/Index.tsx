@@ -74,7 +74,7 @@ export default function Index() {
       name: 'UC8Phone Mobile Plan',
       description: 'Get a free starter calling plan with 47 minutes of calling.',
       cost: 47000,
-      image: advertisingImg,
+      image: gamingHeadsetImg,
       category: 'Classroom Essentials'
     },
     {
