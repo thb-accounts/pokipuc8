@@ -2,63 +2,60 @@
 @tailwind components;
 @tailwind utilities;
 
-/* TokenTrek Gaming Design System - All colors MUST be HSL */
+/* POKIP brand design system — colors are expressed as HSL values. */
 
 @layer base {
   :root {
-    /* Gaming Dark Theme */
-    --background: 222 47% 4%;
-    --foreground: 180 100% 90%;
+    /* POKIP blue surfaces */
+    --background: 222 56% 5%;
+    --foreground: 210 100% 96%;
 
     /* Gaming Cards */
-    --card: 222 47% 6%;
-    --card-foreground: 180 100% 90%;
+    --card: 221 53% 8%;
+    --card-foreground: 210 100% 96%;
 
-    --popover: 222 47% 6%;
-    --popover-foreground: 180 100% 90%;
+    --popover: 221 53% 8%;
+    --popover-foreground: 210 100% 96%;
 
-    /* Electric Blue Primary */
-    --primary: 194 100% 50%;
-    --primary-foreground: 222 47% 4%;
+    /* Logo blue: #0758f6 */
+    --primary: 220 93% 50%;
+    --primary-foreground: 0 0% 100%;
 
-    /* Cyan Secondary */
-    --secondary: 180 100% 25%;
-    --secondary-foreground: 180 100% 90%;
+    --secondary: 220 65% 20%;
+    --secondary-foreground: 210 100% 96%;
 
-    /* Muted Gaming */
-    --muted: 222 47% 8%;
-    --muted-foreground: 180 20% 70%;
+    --muted: 221 43% 12%;
+    --muted-foreground: 215 28% 72%;
 
-    /* Electric Accent */
-    --accent: 285 100% 60%;
-    --accent-foreground: 222 47% 4%;
+    --accent: 220 72% 18%;
+    --accent-foreground: 210 100% 96%;
 
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 210 40% 98%;
 
-    --border: 222 47% 12%;
-    --input: 222 47% 8%;
-    --ring: 194 100% 50%;
+    --border: 220 45% 19%;
+    --input: 221 43% 12%;
+    --ring: 220 93% 50%;
 
-    /* Gaming Design Tokens */
+    /* POKIP design tokens */
     --radius: 0.75rem;
     
-    /* Custom Gaming Colors */
-    --neon-cyan: 180 100% 50%;
-    --neon-purple: 285 100% 60%;
-    --electric-blue: 194 100% 50%;
-    --dark-surface: 222 47% 6%;
-    --darker-surface: 222 47% 4%;
+    --neon-cyan: 220 93% 50%;
+    --neon-purple: 220 100% 63%;
+    --electric-blue: 220 93% 50%;
+    --dark-surface: 221 53% 8%;
+    --darker-surface: 222 56% 5%;
     
     /* Gradients */
-    --gradient-gaming: linear-gradient(135deg, hsl(194 100% 50% / 0.2), hsl(285 100% 60% / 0.2));
-    --gradient-card: linear-gradient(145deg, hsl(222 47% 6%), hsl(222 47% 8%));
-    --gradient-button: linear-gradient(135deg, hsl(194 100% 50%), hsl(180 100% 40%));
+    --gradient-gaming: linear-gradient(135deg, hsl(220 93% 50% / 0.25), hsl(220 100% 63% / 0.12));
+    --gradient-card: linear-gradient(145deg, hsl(221 53% 10%), hsl(222 56% 5%));
+    --gradient-button: linear-gradient(135deg, hsl(220 93% 50%), hsl(220 100% 63%));
+    --gradient-page: radial-gradient(circle at top, hsl(220 93% 50% / 0.18), transparent 42%), hsl(222 56% 5%);
     
     /* Shadows */
-    --shadow-neon: 0 0 20px hsl(194 100% 50% / 0.3);
-    --shadow-glow: 0 4px 20px hsl(194 100% 50% / 0.1);
-    --shadow-card: 0 8px 25px hsl(222 47% 2% / 0.4);
+    --shadow-neon: 0 0 20px hsl(220 93% 50% / 0.35);
+    --shadow-glow: 0 4px 20px hsl(220 93% 50% / 0.18);
+    --shadow-card: 0 8px 25px hsl(222 56% 2% / 0.45);
     
     /* Animations */
     --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
@@ -127,5 +124,11 @@
 
   body {
     @apply bg-background text-foreground;
+  }
+}
+
+@layer utilities {
+  .bg-gradient-dark {
+    background: var(--gradient-page);
   }
 }

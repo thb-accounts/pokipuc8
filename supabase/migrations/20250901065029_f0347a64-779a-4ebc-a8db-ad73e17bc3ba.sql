@@ -102,7 +102,7 @@ EXECUTE FUNCTION public.handle_new_user();
 -- Insert some default tasks
 INSERT INTO public.tasks (title, description, reward, difficulty) VALUES
   ('Complete Daily Login', 'Log in to your account every day', 50, 'easy'),
-  ('Share with Friends', 'Share TokenTrek with 3 friends', 200, 'medium'),
+  ('Share with Friends', 'Share POKIP with 3 friends', 200, 'medium'),
   ('Write a Review', 'Leave a review on our platform', 150, 'medium'),
   ('Complete Profile', 'Fill out your complete user profile', 100, 'easy'),
   ('Weekly Challenge', 'Complete all daily tasks for a week', 500, 'hard'),
