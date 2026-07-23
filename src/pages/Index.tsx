@@ -26,6 +26,7 @@ import advertisingImg from '@/assets/BIG.png'
 import jassimsImg from '@/assets/jassimitem.png'
 import appWebImg from '@/assets/appweb.png'
 import amazongift from '@/assets/amazongift.jpg'
+import mobileImg from '@/assets/uc8mobile.png'
 
 export default function Index() {
   const navigate = useNavigate();
@@ -73,10 +74,10 @@ export default function Index() {
     },
     {
       id: 'robux-currency',
-      name: 'UC8Phone Mobile Plan',
+      name: 'UC8Mobile Calling Plan',
       description: 'Get a free starter calling plan with 47 minutes of calling.',
       cost: 50,
-      image: gamingHeadsetImg,
+      image: mobileImg,
       category: 'Phone Services'
     },
     {
@@ -92,7 +93,7 @@ export default function Index() {
       name: 'AED 50 Amazon Gift Card (UAE)',
       description: 'Purchase an Amazon Gift Card for only 5000 Tokens! Note: UAE usage only.',
       cost: 5000,
-      image: advertisingImg,
+      image: amazongift,
       category: 'Gift Cards'
     },
     {
