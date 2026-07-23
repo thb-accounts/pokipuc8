@@ -235,9 +235,9 @@ export default function Index() {
         <div className="flex justify-between items-center mb-8">
           <div>
             <h1 className="text-4xl font-bold bg-gradient-to-r from-neon-cyan to-neon-purple bg-clip-text text-transparent">
-              POKIP Marketplace
+              POKIP
             </h1>
-            <p className="text-muted-foreground mt-2">A THB Group brand.</p>
+            <p className="text-muted-foreground mt-2">A UC8 Initative.</p>
             <p className="text-muted-foreground mt-2"></p>
           </div>
           
@@ -257,13 +257,13 @@ export default function Index() {
         {/* Main Content */}
         <Tabs defaultValue="marketplace" className="space-y-6">
           <TabsList className="grid w-full grid-cols-2 max-w-md mx-auto">
-            <TabsTrigger value="marketplace">POKIP Mart - Student Items</TabsTrigger>
-            <TabsTrigger value="tasks">POKIP Hub</TabsTrigger>
+            <TabsTrigger value="marketplace">POKIP Mart</TabsTrigger>
+            <TabsTrigger value="tasks">POKIP Rewards Card</TabsTrigger>
           </TabsList>
           
           <TabsContent value="marketplace" className="space-y-6">
             <div className="text-center space-y-2">
-              <h2 className="text-2xl font-semibold">POKIP Student Items</h2>
+              <h2 className="text-2xl font-semibold">POKIP Mart</h2>
               <p className="text-muted-foreground">Exchange your tokens for amazing rewards</p>
             </div>
             
@@ -291,15 +291,15 @@ export default function Index() {
               <div className="space-y-4 text-center">
                 <div className="flex items-center justify-center gap-2">
                   <Trophy className="w-5 h-5 text-neon-cyan" />
-                  <h2 className="text-xl font-bold">POKIP Hub</h2>
+                  <h2 className="text-xl font-bold">POKIP Rewards Card</h2>
                 </div>
                 <p className="text-muted-foreground">
-                  POKIP Hub
+                  Click the button below to access your rewards card, and see where it may be used.
                 </p>
                 <Button
                   variant="gaming"
                   size="lg"
-                  onClick={() => window.open('https://fbjemr.mimo.run/tasks.html', '_blank')}
+                  onClick={() => window.open('https://pokipcardgen.unrealcake8.site', '_blank')}
                   className="w-full"
                 >
                   Go to Tasks
