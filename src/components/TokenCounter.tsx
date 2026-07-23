@@ -32,7 +32,7 @@ export const TokenCounter = ({ tokens, className = '' }: TokenCounterProps) => {
         <div className="absolute inset-0 w-8 h-8 bg-neon-cyan/20 rounded-full animate-glow-pulse" />
       </div>
       <div className="flex flex-col">
-        <span className="text-sm text-muted-foreground uppercase tracking-wider">Tokens</span>
+        <span className="text-sm text-muted-foreground uppercase tracking-wider">Points</span>
         <span 
           className={`text-2xl font-bold text-neon-cyan transition-all duration-300 ${
             isAnimating ? 'scale-110' : ''
