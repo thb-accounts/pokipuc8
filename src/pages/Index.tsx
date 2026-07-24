@@ -75,7 +75,7 @@ export default function Index() {
     {
       id: 'robux-currency',
       name: 'UC8Mobile Calling Plan',
-      description: 'Get a free starter calling plan with 47 minutes of calling.',
+      description: 'Get a starter calling plan with 47 minutes of calling.',
       cost: 50,
       image: mobileImg,
       category: 'Phone Services'
